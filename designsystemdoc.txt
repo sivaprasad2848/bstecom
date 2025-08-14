@@ -1,0 +1,37 @@
+
+	->topbar
+	->logo & menubar
+	->hero
+	->fetured-product
+	->categories
+	->advertisement
+	->brands
+	->testimonial
+	->footer
+	->footerbottom
+
+Design System:
+Primary: White (#FFFFFF) – background
+Accent: Charcoal Gray (#333333) – text
+Highlight/CTA: Electric Blue (#007BFF) or Turquoise (#00BFA6) – buttons, links
+Secondary Accent: Light Gray (#F5F5F5) – section dividers
+
+Poppins – Modern, clean, slightly rounded (great for tech, fashion, general retail)
+Pros: Excellent readability, professional but friendly.
+Example pairing:
+Headings: Poppins Bold / SemiBold
+Body text: Poppins Regular
+
+
+| Section                 | Desktop Size | Mobile Size | Weight           |
+| ----------------------- | ------------ | ----------- | ---------------- |
+| **Hero Title**          | 48–60px      | 28–36px     | Bold / ExtraBold |
+| **Hero Subtitle**       | 20–24px      | 16–18px     | Medium           |
+| **Section Titles**      | 28–36px      | 20–24px     | Bold             |
+| **Product Title**       | 18–20px      | 16px        | Medium/Bold      |
+| **Product Price**       | 18px         | 16px        | Bold (stand out) |
+| **Product Description** | 14–16px      | 14px        | Regular          |
+| **CTA Buttons**         | 16–18px      | 14–16px     | SemiBold         |
+| **Navigation Menu**     | 16–18px      | 14–16px     | Medium           |
+| **Footer Text**         | 12–14px      | 12px        | Regular          |
+
