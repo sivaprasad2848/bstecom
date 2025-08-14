@@ -1,0 +1,17 @@
+.topbar{
+    height:40px;
+    background: #333;
+}
+.hero{
+    background-image: url('./images/hero.webp');
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}
+.hero .herotitle{
+    font-size: 68px;
+    font-family: "Poppins", sans-serif;
+    font-weight:600;
+    color:#333333;
+}
